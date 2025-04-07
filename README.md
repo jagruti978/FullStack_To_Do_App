@@ -16,3 +16,19 @@ Features
 Project Structure
 - Frontend: React components, utilities, and API handlers
 - Backend: Node.js server, Express routes, MongoDB database, and Mongoose models
+
+#Output
+![image](https://github.com/user-attachments/assets/6d748011-14cb-47b4-a253-8eea58f28228) <br>
+![image](https://github.com/user-attachments/assets/6a4a304d-7c12-478b-bbe7-40686c2c30e1) <br>
+![image](https://github.com/user-attachments/assets/79a91898-9e80-4039-a022-a5f4e1baf235) <br>
+![image](https://github.com/user-attachments/assets/73ce7efa-85d0-4c9d-a913-535e159bc59f) <br>
+![image](https://github.com/user-attachments/assets/aacf836f-f0df-466f-a342-4d0ceccc96ad)
+
+
+
+
+
+
+
+
+
