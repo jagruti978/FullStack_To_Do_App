@@ -1,8 +1,6 @@
 # FullStack_To_Do_App
 Full Stack Todo App
 
-Full Stack Todo App
-
 Tech Stack
 - Frontend: React (using Create React App)
 - Backend: Node.js, Express, MongoDB (with Mongoose)
